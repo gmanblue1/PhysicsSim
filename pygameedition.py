@@ -1,6 +1,6 @@
 import pygame
 
-print("Physics Sim in Python (Pygame Edition)")
+print("Physics Sim in Python")
 
 def bound_check(position, velocity):
     if position >= 790:
